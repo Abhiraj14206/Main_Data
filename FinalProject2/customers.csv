@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,age,gender,income,city,signup_date
+CUST1000,Calvin,Hill,56.0,Male,,Hillville,2025-01-22
+CUST1001,Diana,Hall,69.0,Other,82592.63,Lake Stephen,2024-07-26
+CUST1002,Kimberly,Manning,46.0,Other,73442.2,New Jodifort,2026-02-05
+CUST1003,Samantha,Drake,32.0,Male,58334.6,Nashburgh,2024-07-30
+CUST1004,Kimberly,Sanchez,60.0,Female,81267.16,Lake Erikaburgh,2025-12-30
+CUST1005,Elizabeth,Holmes,25.0,Male,70863.55,New Taylor,2024-02-08
+CUST1006,Ashley,King,38.0,Other,19886.48,Jerryborough,2025-02-13
+CUST1007,Douglas,Wolfe,56.0,Other,66011.84,Michealstad,2025-08-30
+CUST1008,Savannah,Warren,36.0,Female,60671.81,South Beckyhaven,2025-08-27
+CUST1009,Jennifer,Jackson,40.0,Other,45659.33,Jackieborough,2023-09-28
+CUST1010,Jasmine,Moore,28.0,Male,28771.96,Rosemouth,2023-06-17
+CUST1011,David,Jones,28.0,Female,58931.02,North Markbury,2025-03-22
+CUST1012,Franklin,Cruz,41.0,Male,18813.08,Lake Erikfurt,2025-03-17
+CUST1013,Brenda,Fritz,53.0,Male,49677.88,New Terri,2023-11-04
+CUST1014,Matthew,Price,57.0,Female,40743.64,Port Kathleenbury,2023-08-11
+CUST1015,Monica,Mullen,41.0,Male,31117.37,South Amy,2024-08-07
+CUST1016,Eric,Donovan,20.0,Other,67832.02,Moralesmouth,2023-11-12
+CUST1017,Amy,Thomas,39.0,Male,49380.37,Thompsonstad,2024-11-01
+CUST1018,Caroline,Sullivan,19.0,Female,52609.49,Larsonhaven,2025-09-07
+CUST1019,Melissa,Gordon,41.0,Female,63618.08,Stevenhaven,2023-05-15
+CUST1020,Allison,Gutierrez,61.0,Female,49868.14,Allenburgh,2025-03-08
+CUST1021,James,Allen,47.0,Male,56771.17,Alanville,2025-10-20
+CUST1022,Lance,Hicks,55.0,Female,62237.77,Williamshaven,2024-05-09
+CUST1023,Shelly,Ballard,19.0,Female,58501.34,Melodytown,2024-07-17
+CUST1024,Paula,Rodriguez,38.0,Male,54289.7,Lake Christie,2025-06-28
+CUST1025,Thomas,Mcclure,50.0,Other,76746.69,New Jamesberg,2025-09-29
+CUST1026,Erik,Novak,29.0,Male,68629.56,West Lori,2024-12-26
+CUST1027,Amy,Robertson,39.0,Female,48713.55,Port Jameshaven,2024-11-10
+CUST1028,Henry,Johnson,61.0,Female,36354.61,West Andrew,2026-01-01
+CUST1029,Ryan,Brown,42.0,Male,59579.35,Adamsstad,2025-09-16
+CUST1030,Elizabeth,Rodgers,66.0,Other,53237.91,Simsburgh,2025-11-20
+CUST1031,Joy,Jenkins,44.0,Female,75634.93,Hatfieldport,2023-08-03
+CUST1032,Andrea,Kennedy,59.0,Female,64812.4,West Mary,2023-03-25
+CUST1033,Billy,Thomas,45.0,Female,61463.07,West Kristen,2024-01-07
+CUST1034,Heather,Moore,33.0,Male,,South Kristinburgh,2026-01-19
+CUST1035,Alex,Stout,32.0,Female,36864.52,New Danielleland,2025-09-04
+CUST1036,Joel,Tran,64.0,Other,47030.56,Alvarezmouth,2025-04-25
+CUST1037,Lisa,Perez,68.0,Female,57152.42,North Margaretville,2025-01-22
+CUST1038,Leslie,Bryant,61.0,Female,24056.3,East Jessica,2023-10-16
+CUST1039,Susan,Hopkins,69.0,Other,68625.71,New Tonya,2024-11-03
+CUST1040,Isabella,Robinson,20.0,Female,,New Christopher,2025-03-16
+CUST1041,Isaac,Gordon,54.0,Male,20825.91,South Lisashire,2025-02-23
+CUST1042,Jamie,Brown,68.0,Male,28996.77,New Anthony,2024-03-24
+CUST1043,Brian,Cardenas,24.0,Male,53444.94,North Stephaniechester,2023-03-11
+CUST1044,Cheryl,Collins,38.0,Other,41261.29,Grahamchester,2023-04-07
+CUST1045,Douglas,Luna,26.0,Female,53913.6,Jeffreyview,2023-07-13
+CUST1046,Tonya,Kim,56.0,Male,48924.89,Jasonborough,2025-08-24
+CUST1047,Ryan,Hensley,35.0,Other,34642.72,New Tiffany,2025-02-02
+CUST1048,Kevin,Franco,21.0,Female,69326.1,Williamport,2025-04-06
+CUST1049,Nathan,Miller,42.0,Other,56967.75,Lake Charleshaven,2024-07-18
+CUST1050,Stephen,Scott,31.0,Male,41603.87,New Michaelstad,2025-02-09
+CUST1051,Jennifer,Kidd,67.0,Male,72575.38,Arnoldborough,2024-08-10
+CUST1052,Courtney,Perez,26.0,Male,42373.91,South Denise,2023-12-19
+CUST1053,Christina,Harrington,43.0,Other,31372.39,Port Dianaview,2024-05-13
+CUST1054,Nicholas,David,19.0,Other,52752.68,North Matthew,2025-11-04
+CUST1055,Geoffrey,Hammond,37.0,Male,55297.36,West Jeffrey,2025-10-04
+CUST1056,Alexandra,Robbins,45.0,Other,57978.75,Steveton,2023-07-05
+CUST1057,Charles,Gutierrez,,Male,60445.27,New Johnshire,2023-10-03
+CUST1058,Eric,Robinson,24.0,Male,57741.87,South Rhondaburgh,2026-01-28
+CUST1059,Trevor,Robinson,61.0,Female,57132.4,Novakland,2023-08-14
+CUST1060,David,Stewart,25.0,Other,41393.69,Tonyafurt,2024-09-13
+CUST1061,Frank,Smith,64.0,Male,39788.84,East Lindseystad,2025-12-01
+CUST1062,Douglas,Rose,52.0,Male,61135.47,Kyliestad,2023-08-30
+CUST1063,Diana,Lee,31.0,Other,53651.85,North Michellefurt,2025-06-29
+CUST1064,James,Simmons,34.0,Female,62303.69,Port Melissa,2025-12-11
+CUST1065,Brandon,Daniels,53.0,Female,24390.84,Port Jacobside,2025-08-29
+CUST1066,Sandra,Rodriguez,67.0,Male,42488.2,Tranburgh,2024-04-07
+CUST1067,Whitney,Williams,57.0,Other,78605.28,Port Darlene,2023-03-18
+CUST1068,Anthony,Brooks,21.0,Female,58288.0,Kelleyborough,2023-07-24
+CUST1069,Lisa,Mason,19.0,Other,54433.26,Lake David,2024-06-11
+CUST1070,Kayla,Mitchell,23.0,Other,60618.87,Lake Kurt,2023-08-14
+CUST1071,Elizabeth,Myers,59.0,Male,83126.76,Stonetown,2025-02-11
+CUST1072,Denise,Swanson,21.0,Female,79970.74,Lake Patriciastad,2023-04-18
+CUST1073,Gabrielle,Kemp,46.0,Male,26307.19,Juanshire,2024-06-18
+CUST1074,Adam,Rivera,35.0,Female,31842.48,East Kathy,2024-08-27
+CUST1075,Carol,Caldwell,43.0,Female,25798.84,Tammyshire,2025-04-13
+CUST1076,Shawn,Spears,61.0,Female,38793.38,Nunezside,2025-08-02
+CUST1077,Susan,Carson,51.0,Female,50823.79,Greenburgh,2024-05-07
+CUST1078,Joshua,Green,,Female,53630.23,Williamfurt,2024-01-11
+CUST1079,Robin,Alexander,53.0,Other,27042.82,Williamsmouth,2024-06-26
+CUST1080,William,Brady,31.0,Male,21989.72,North Dawnberg,2025-01-10
+CUST1081,Walter,Greene,48.0,Other,38528.13,Dannyport,2024-07-16
+CUST1082,Emily,Jackson,65.0,Female,63742.57,North Alexis,2023-03-02
+CUST1083,Melissa,Shannon,32.0,Male,66355.44,Ashleychester,2023-08-08
+CUST1084,Michael,Clark,25.0,Female,75587.37,West Carla,2025-02-10
+CUST1085,Douglas,Owen,31.0,Male,49515.05,Frankland,2023-03-19
+CUST1086,John,Miranda,40.0,Other,62422.3,Poolehaven,2023-03-28
+CUST1087,Taylor,Miller,,Male,65148.42,West Kathleen,2023-04-12
+CUST1088,Tammy,Walker,38.0,Male,42547.11,Rileychester,2025-01-23
+CUST1089,Felicia,Hernandez,33.0,Male,55817.67,Port Brittneyberg,2024-08-12
+CUST1090,Sharon,Day,62.0,Male,59880.58,Sandrafurt,2023-11-09
+CUST1091,Jenny,Blanchard,35.0,Male,36362.64,Port Jacquelinetown,2023-09-16
+CUST1092,Ryan,Garcia,64.0,Female,74631.44,South Amberton,2024-10-27
+CUST1093,Joseph,Brown,41.0,Male,49417.82,Lake Patriciashire,2024-09-28
+CUST1094,Whitney,Shelton,43.0,Male,51305.53,Lauramouth,2023-03-06
+CUST1095,Mark,Spencer,42.0,Other,35789.88,Mendozamouth,2024-12-31
+CUST1096,Michael,Solomon,62.0,Male,38308.61,East Sheila,2025-12-15
+CUST1097,Kevin,Sanders,58.0,Other,17052.28,Melissafurt,2024-11-19
+CUST1098,Sean,Reyes,46.0,Female,50827.34,Kevinland,2023-02-26
+CUST1099,Laura,Garcia,32.0,Male,,Sanchezborough,2023-08-15
+CUST1100,Bonnie,Mendoza,62.0,Other,34720.71,Adamside,2025-05-04
+CUST1101,Howard,Beasley,18.0,Other,,Joshuaberg,2024-09-24
+CUST1102,Benjamin,Anderson,42.0,Female,71213.77,Lake Glenn,2025-12-10
+CUST1103,Louis,Acosta,24.0,Male,42896.17,East Justinland,2023-12-19
+CUST1104,Pamela,Baker,26.0,Male,50408.97,West Sharon,2023-10-11
+CUST1105,Sherri,Bell,41.0,Other,47973.5,Michaelshire,2023-08-23
+CUST1106,Michelle,Jones,18.0,Male,75592.46,Burtonhaven,2024-12-09
+CUST1107,Jeffery,Jensen,61.0,Other,57755.24,Jenniferton,2026-01-13
+CUST1108,Jamie,Fisher,,Male,67729.61,Stephenberg,2024-10-15
+CUST1109,Jeremy,Sampson,41.0,Other,55372.58,Blevinsport,2024-02-20
+CUST1110,Jennifer,Moon,28.0,Male,48320.41,Williamsfurt,2025-01-31
+CUST1111,Claire,Griffin,,Female,54896.35,South Sarah,2023-08-17
+CUST1112,Melissa,Barrett,,Male,43895.84,South David,2023-10-16
+CUST1113,Mary,Ross,25.0,Male,28216.94,Debbiehaven,2023-06-03
+CUST1114,Jennifer,Singleton,52.0,Female,62205.33,West Donald,2024-03-01
+CUST1115,Robyn,Ewing,52.0,Male,27482.53,New Samuelfurt,2024-11-18
+CUST1116,Carlos,Robinson,50.0,Female,45967.49,New Michaeltown,2025-09-26
+CUST1117,Valerie,Johnson,22.0,Male,43402.04,Herringshire,2024-10-04
+CUST1118,Jennifer,Jones,59.0,Other,59650.31,Arnoldtown,2023-05-21
+CUST1119,Jennifer,Reed,56.0,Other,73470.57,Velasquezfort,2023-11-06
+CUST1120,Lindsey,Calhoun,58.0,Male,68074.56,Benjaminstad,2024-10-15
+CUST1121,Jack,Kennedy,45.0,Male,60086.38,Elizabethbury,2025-03-31
+CUST1122,Andrea,Charles,24.0,Male,40551.93,Molinaland,2024-11-13
+CUST1123,Alexander,Rodriguez,26.0,Other,47247.96,Lake Heather,2025-06-06
+CUST1124,Erin,Johnson,25.0,Male,45060.89,Merrittmouth,2024-03-14
+CUST1125,Julian,Wall,29.0,Other,42945.78,South Sheila,2026-01-03
+CUST1126,Craig,Smith,51.0,Female,43963.23,Caldwellburgh,2025-05-20
+CUST1127,Jonathan,Harding,50.0,Other,43562.93,Coleview,2023-10-21
+CUST1128,Gavin,Briggs,65.0,Other,42898.61,Laurenmouth,2023-10-29
+CUST1129,Lance,Lee,40.0,Female,64278.25,Cassandraberg,2025-10-25
+CUST1130,Rodney,Hernandez,41.0,Other,34180.45,Lake Sarah,2026-01-23
+CUST1131,Amanda,Campbell,54.0,Male,39057.89,Maryfort,2025-06-12
+CUST1132,Michelle,Sherman,52.0,Male,26248.9,Tammyside,2024-07-15
+CUST1133,Vincent,Fox,61.0,Other,71232.24,Whiteview,2024-04-13
+CUST1134,Raymond,Lee,57.0,Male,38052.46,Davidshire,2023-12-05
+CUST1135,Christine,Mclaughlin,39.0,Other,59911.63,West Jaredborough,2023-11-19
+CUST1136,Christopher,Lewis,44.0,Male,57129.78,East Tammieside,2025-01-05
+CUST1137,Eric,West,52.0,Male,69782.58,Lake Holly,2024-11-27
+CUST1138,Teresa,Sosa,,Other,46849.75,New Thomasberg,2024-02-23
+CUST1139,Megan,Calderon,,Male,35786.9,Humphreyburgh,2025-02-11
+CUST1140,Bonnie,Merritt,54.0,Other,26663.75,Devinville,2024-01-11
+CUST1141,Michael,Freeman,64.0,Male,8230.47,North Jimmy,2023-03-01
+CUST1142,Alexander,Jones,31.0,Male,52420.3,East Samuelchester,2025-12-31
+CUST1143,Shawna,Brown,20.0,Female,61632.09,New Dawn,2025-06-21
+CUST1144,Mary,Cole,18.0,Female,57075.32,Lake Brenda,2024-01-29
+CUST1145,Stacey,Smith,22.0,Other,27053.54,Kylestad,2025-10-19
+CUST1146,Douglas,Kim,43.0,Female,65582.39,Lake Ariel,2025-06-05
+CUST1147,Lindsay,Wagner,31.0,Other,39526.76,Conniefurt,2023-11-04
+CUST1148,Kevin,Bean,56.0,Female,36396.45,Lake Christopher,2025-12-17
+CUST1149,James,Christensen,44.0,Male,39190.52,East Nancyton,2025-02-19
+CUST1150,Anthony,Roberts,26.0,Other,51176.13,Ewingview,2025-03-26
+CUST1151,Lacey,Jones,32.0,Other,27729.48,Mitchellstad,2024-11-23
+CUST1152,Desiree,Eaton,32.0,Male,49444.46,Lake Laurabury,2023-10-12
+CUST1153,John,Robinson,43.0,Other,56441.72,Melissafurt,2024-08-18
+CUST1154,Kevin,Singleton,59.0,Other,66609.86,Weissberg,2023-04-02
+CUST1155,Victoria,Johnson,30.0,Female,52639.35,Harmonmouth,2025-04-30
+CUST1156,Justin,Singh,68.0,Other,29905.57,South Robert,2025-07-19
+CUST1157,Dawn,Barnes,49.0,Male,52233.35,Jacksonstad,2024-03-31
+CUST1158,Cheryl,Jimenez,56.0,Female,34096.13,East Dawnton,2024-09-16
+CUST1159,Jay,Anderson,66.0,Female,33230.82,South Jamieville,2025-06-02
+CUST1160,Jack,Castro,69.0,Male,29559.45,North Ryanberg,2025-12-05
+CUST1161,Todd,Caldwell,49.0,Male,,New Richard,2024-12-10
+CUST1162,Rebecca,Nichols,21.0,Female,41492.55,Denisehaven,2023-06-28
+CUST1163,David,Clarke,47.0,Other,66933.33,Schroederside,2024-11-15
+CUST1164,Adam,Parrish,54.0,Female,83847.26,East Andrewshire,2024-04-02
+CUST1165,Cynthia,Murphy,40.0,Male,41396.22,Sabrinashire,2024-04-14
+CUST1166,Alicia,Jackson,56.0,Female,66291.58,Whitneymouth,2024-08-10
+CUST1167,Michael,Gray,62.0,Male,44081.27,Gordonhaven,2026-01-25
+CUST1168,Jimmy,Vasquez,32.0,Female,25238.96,Roseshire,2024-04-09
+CUST1169,Christopher,Warren,60.0,Other,,Port Jacobville,2024-11-30
+CUST1170,Gary,Rhodes,46.0,Female,,Buchananville,2025-08-07
+CUST1171,Leslie,Rojas,53.0,Female,77270.29,Gregoryhaven,2023-09-22
+CUST1172,David,Maynard,30.0,Male,26979.82,Woodsfurt,2025-11-27
+CUST1173,Ryan,Baxter,49.0,Male,91940.49,Carrollview,2025-09-23
+CUST1174,Andrew,Pennington,24.0,Male,73875.76,East Laurie,2023-10-17
+CUST1175,Andre,Norris,68.0,Female,49731.15,Nathanshire,2025-06-15
+CUST1176,Dean,Barrera,39.0,Other,,Brandonburgh,2025-03-14
+CUST1177,Mark,Bonilla,45.0,Male,39262.85,West Lisa,2023-11-09
+CUST1178,Kevin,Williams,19.0,Male,51645.99,West Christopher,2025-12-11
+CUST1179,Katie,Medina,,Female,47240.96,Kevinport,2025-02-09
+CUST1180,Christopher,Jackson,62.0,Male,57706.93,Loganmouth,2025-04-13
+CUST1181,Elizabeth,Williams,23.0,Other,45584.5,West Nathaniel,2026-01-14
+CUST1182,Kayla,Ortiz,45.0,Other,71224.46,Jonesbury,2025-01-14
+CUST1183,Hector,Lynch,45.0,Male,,West Rhondaberg,2024-08-27
+CUST1184,Kelsey,Vazquez,61.0,Male,46147.74,Lopezberg,2024-09-23
+CUST1185,Jason,Schmidt,61.0,Female,65364.3,Robertoberg,2024-02-04
+CUST1186,Matthew,Harris,37.0,Other,25662.15,West Kennethtown,2025-05-06
+CUST1187,Devin,Pugh,47.0,Other,55114.83,Dorothyborough,2024-07-23
+CUST1188,Daniel,Mccarty,28.0,Male,50383.57,Amandamouth,2025-09-10
+CUST1189,Ana,Boyle,45.0,Female,28837.24,Kimberlymouth,2023-12-13
+CUST1190,Keith,Sutton,42.0,Other,24372.45,New Brandy,2024-06-27
+CUST1191,Ryan,Levine,56.0,Other,65155.18,Justinton,2024-03-27
+CUST1192,Cindy,Ryan,50.0,Female,64441.86,Bryanshire,2024-09-28
+CUST1193,Marc,Hawkins,18.0,Female,52588.38,South Troybury,2024-11-23
+CUST1194,Ashley,Carroll,44.0,Other,75749.87,Kimberlyview,2024-10-04
+CUST1195,Valerie,Johnson,69.0,Other,56614.52,Bradleystad,2023-04-26
+CUST1196,Jessica,Dixon,30.0,Female,,West Alexisfurt,2023-06-25
+CUST1197,Damon,Perez,58.0,Other,56304.87,South Kevin,2025-04-03
+CUST1198,Kevin,Fleming,20.0,Male,45862.86,Deannamouth,2023-03-18
+CUST1199,Nathaniel,Vaughn,56.0,Male,34137.03,Zavalamouth,2025-09-08
+CUST1200,Scott,Washington,23.0,Female,40948.46,East Johnnyberg,2024-09-09
+CUST1201,Susan,Rowland,25.0,Female,,Christinestad,2024-11-20
+CUST1202,Heather,Martinez,44.0,Female,70447.3,Kelliside,2023-04-24
+CUST1203,Brittany,Perez,26.0,Male,,Smithfurt,2024-04-03
+CUST1204,Eric,Harrison,54.0,Other,54954.79,Bellhaven,2023-05-18
+CUST1205,Gabriel,Oliver,50.0,Male,63050.15,New Scottfort,2025-05-06
+CUST1206,Bailey,Dunn,68.0,Other,57910.76,Bradfordbury,2023-10-30
+CUST1207,Danielle,Hernandez,59.0,Male,53929.06,Lake Vanessa,2024-02-16
+CUST1208,Brittany,Cole,61.0,Other,27520.11,Rebeccaton,2024-01-05
+CUST1209,Carl,Bates,,Male,67087.36,East Joseph,2023-09-18
+CUST1210,James,Perez,32.0,Female,43122.32,Lake Barbara,2023-09-26
+CUST1211,Julie,Kim,49.0,Male,,Andrealand,2023-02-22
+CUST1212,Nicholas,Payne,49.0,Other,67778.15,Waltersfort,2023-09-26
+CUST1213,Paul,Cortez,41.0,Male,39949.41,North Jennifer,2025-03-23
+CUST1214,Joseph,Reed,58.0,Male,64245.74,Port Melanieberg,2024-07-16
+CUST1215,Robin,King,69.0,Male,44585.19,New Arthurville,2024-06-09
+CUST1216,Sean,Valentine,66.0,Female,44674.52,Donaldport,2023-03-10
+CUST1217,Joshua,Ramirez,66.0,Male,53862.1,Meganmouth,2025-08-03
+CUST1218,Emily,Watson,,Female,54267.09,Kimberlyton,2024-06-18
+CUST1219,Michael,Santos,29.0,Female,50578.27,Mooreborough,2024-11-04
+CUST1220,Sheri,Spears,56.0,Male,29985.68,West Rebeccastad,2025-09-23
+CUST1221,Daniel,Rodriguez,19.0,Male,48178.3,New Jamesstad,2023-04-02
+CUST1222,Renee,Wilson,20.0,Male,84177.18,Davidshire,2023-04-13
+CUST1223,Kelly,Gordon,66.0,Other,8239.94,Lake Jennifer,2024-02-11
+CUST1224,Melissa,Young,54.0,Male,63046.11,New Shawnchester,2023-12-13
+CUST1225,Vanessa,Huynh,66.0,Female,65856.87,Thomashaven,2025-10-17
+CUST1226,Jonathan,Parsons,34.0,Male,29624.78,Thompsonshire,2025-01-13
+CUST1227,Benjamin,Holmes,66.0,Other,42958.42,New Melissatown,2023-07-15
+CUST1228,Robert,Anderson,19.0,Male,34989.24,New Melindastad,2024-05-03
+CUST1229,Adam,Davis,19.0,Other,77809.48,Blaketon,2023-12-11
+CUST1230,Jeffrey,Hill,45.0,Other,66545.38,Port Jenniferbury,2024-10-08
+CUST1231,Megan,Johnson,40.0,Male,67271.38,Fullermouth,2025-11-29
+CUST1232,Joseph,Wade,54.0,Female,51809.71,Jordanbury,2025-12-12
+CUST1233,Vanessa,Jones,49.0,Other,69681.38,Christopherstad,2023-04-21
+CUST1234,Amanda,Goodman,,Male,49876.45,Perrystad,2025-01-01
+CUST1235,Drew,Ross,18.0,Male,70387.36,West Elizabeth,2025-02-10
+CUST1236,Anthony,Watkins,36.0,Female,47769.55,Brennanhaven,2025-07-04
+CUST1237,Sarah,Henderson,19.0,Other,39811.37,Deniseshire,2023-10-09
+CUST1238,Eric,Stafford,,Other,77164.25,West Teresamouth,2024-07-12
+CUST1239,Brian,Lewis,43.0,Male,49687.27,Hoganside,2024-05-10
+CUST1240,Erica,Fuentes,49.0,Male,36518.0,Macdonaldmouth,2024-04-27
+CUST1241,Connie,Walker,23.0,Female,36355.49,Ryanburgh,2025-11-12
+CUST1242,Robert,Abbott,49.0,Female,36401.32,Port Sydney,2023-07-04
+CUST1243,Erin,Snyder,21.0,Other,62666.64,East Kyle,2025-09-21
+CUST1244,Christina,Russell,28.0,Other,48517.06,West Cynthia,2025-02-26
+CUST1245,Cole,Miller,34.0,Male,84469.38,Castroview,2023-11-10
+CUST1246,Thomas,Lane,,Other,67792.67,New Stacey,2025-12-09
+CUST1247,Barbara,Stuart,41.0,Female,53857.07,East Billy,2025-03-15
+CUST1248,Sarah,Diaz,22.0,Female,71058.46,West Stevenfort,2025-03-19
+CUST1249,Marie,Kennedy,69.0,Male,42567.39,Albertshire,2024-04-03
+CUST1250,Matthew,Franco,51.0,Female,22178.21,Port Madelinefurt,2025-06-04
+CUST1251,Patrick,Jackson,23.0,Female,35156.25,Emilyfurt,2023-09-03
+CUST1252,James,Martin,39.0,Female,52208.12,Port Monique,2025-11-20
+CUST1253,David,Walters,28.0,Female,46661.88,Victoriaside,2024-11-22
+CUST1254,Kevin,Mendoza,65.0,Male,62366.23,New Geraldstad,2023-04-11
+CUST1255,Melissa,Williams,33.0,Male,48130.79,Brandonview,2024-03-09
+CUST1256,Traci,Vang,50.0,Other,61220.52,Geraldmouth,2025-04-10
+CUST1257,Joanna,Gardner,26.0,Female,72514.57,South Georgeborough,2025-04-11
+CUST1258,Carol,Mckinney,23.0,Other,48084.56,Robertstad,2023-02-21
+CUST1259,Derrick,Best,33.0,Male,58327.18,New Joshuamouth,2024-06-02
+CUST1260,Erin,Roman,46.0,Male,23678.2,North Dennisfort,2024-01-03
+CUST1261,Jesse,Burgess,20.0,Male,48141.59,East Benjamin,2023-12-02
+CUST1262,Chelsea,Cunningham,37.0,Male,31520.63,Lake Josebury,2023-03-06
+CUST1263,Adam,Lane,53.0,Male,52178.4,North Tony,2024-04-16
+CUST1264,Toni,Scott,36.0,Male,53540.0,South Brianbury,2025-04-10
+CUST1265,Alex,Reed,43.0,Male,53490.15,Richardsview,2025-03-06
+CUST1266,Isaiah,Miles,20.0,Female,42798.16,Crystalmouth,2023-10-20
+CUST1267,Cynthia,Cross,36.0,Other,84477.03,Jaredville,2023-05-28
+CUST1268,Aaron,Sellers,37.0,Male,30979.68,New Melissashire,2024-09-26
+CUST1269,Jeanne,Mays,49.0,Female,30062.81,Stevenside,2024-11-22
+CUST1270,Nicole,Schultz,24.0,Female,,Chambersmouth,2024-02-19
+CUST1271,James,Walker,69.0,Other,39435.81,Aliciaborough,2023-12-16
+CUST1272,Heather,Brown,58.0,Male,35829.64,Staceybury,2024-10-29
+CUST1273,Helen,Barker,50.0,Other,84543.68,Port Jesse,2025-10-01
+CUST1274,Laura,Barnes,57.0,Male,64785.84,North Catherinemouth,2025-11-06
+CUST1275,Jennifer,Salinas,56.0,Female,41083.03,West Brian,2024-11-24
+CUST1276,John,Carter,35.0,Female,53262.62,Andersonland,2023-06-11
+CUST1277,Mackenzie,Roberts,57.0,Female,79188.07,Keithtown,2024-10-04
+CUST1278,Robin,Bright,18.0,Female,60374.31,East Jamiehaven,2026-02-15
+CUST1279,Billy,Garcia,28.0,Other,69292.23,Eatontown,2023-12-20
+CUST1280,David,Rose,45.0,Male,62072.05,Wattsfurt,2023-12-15
+CUST1281,Christopher,Griffin,42.0,Male,63953.8,Combsville,2023-10-16
+CUST1282,Amy,Martin,67.0,Other,50596.13,Williamsontown,2025-04-20
+CUST1283,Heather,Santiago,40.0,Male,50170.23,Joseport,2023-11-10
+CUST1284,Jennifer,Keller,48.0,Female,54005.76,Dawsonfurt,2024-08-24
+CUST1285,Michael,Nicholson,47.0,Male,61016.79,East Josephfurt,2024-05-15
+CUST1286,William,Fletcher,59.0,Female,45750.27,South Holly,2025-02-19
+CUST1287,Jonathan,Gonzalez,52.0,Other,51830.81,Chapmanfort,2023-04-03
+CUST1288,Michele,Chambers,24.0,Male,45344.82,Brandimouth,2024-05-27
+CUST1289,Anthony,Ramsey,33.0,Other,51735.27,Port Johnland,2023-08-15
+CUST1290,Austin,Brown,43.0,Male,31235.06,Davidmouth,2025-09-26
+CUST1291,Michael,Carter,65.0,Female,89089.66,South Charles,2023-09-30
+CUST1292,Timothy,Carr,69.0,Other,39005.9,Port Alexanderburgh,2026-01-09
+CUST1293,Nathan,Duncan,66.0,Male,44578.09,Roachton,2025-11-24
+CUST1294,Tabitha,Jones,19.0,Female,37711.03,Port Phillipchester,2025-04-25
+CUST1295,Justin,Hogan,,Other,59235.63,Richardstad,2025-11-20
+CUST1296,Juan,Holland,65.0,Other,47059.96,Port Jennifer,2024-04-02
+CUST1297,Amanda,Wilkerson,29.0,Male,35542.89,Reedshire,2023-12-28
+CUST1298,Jesse,Morton,22.0,Male,59853.25,Davidbury,2026-01-30
+CUST1299,Manuel,Patrick,54.0,Male,61874.74,Jenniferbury,2025-04-03
+CUST1300,Matthew,Gilmore,49.0,Female,48996.86,Amandaport,2024-12-17
+CUST1301,Michael,Kerr,26.0,Male,40045.61,Jamestown,2024-09-25
+CUST1302,Krystal,Galvan,58.0,Other,82865.99,Port Angela,2025-03-07
+CUST1303,Robert,Cook,52.0,Other,55101.01,Morenobury,2025-05-27
+CUST1304,Kelly,Miller,36.0,Male,30888.97,Davismouth,2024-09-23
+CUST1305,Dakota,Booth,65.0,Male,71210.61,New Michaelchester,2024-07-24
+CUST1306,Ann,Calderon,33.0,Other,37163.38,Charlesstad,2024-11-22
+CUST1307,Madison,Foster,20.0,Female,91128.18,Petermouth,2024-10-02
+CUST1308,Gregory,Moore,37.0,Male,51194.87,Seanland,2025-11-25
+CUST1309,Emily,Kelly,41.0,Male,65199.74,South Laurie,2025-03-24
+CUST1310,Anthony,Lowe,50.0,Other,18799.74,East Andrea,2024-04-20
+CUST1311,Zachary,Wong,41.0,Male,30737.89,Port Nicholasburgh,2026-01-15
+CUST1312,Lance,Swanson,69.0,Female,70007.89,Seanfurt,2025-11-20
+CUST1313,Emily,Reed,28.0,Other,54767.23,Lake Lisa,2023-06-01
+CUST1314,Christy,Johnston,66.0,Male,,Vaughanhaven,2023-11-30
+CUST1315,Shelby,Davis,25.0,Other,57277.63,Oliviaberg,2025-11-02
+CUST1316,Edward,Garcia,53.0,Male,52179.44,Meganshire,2026-02-10
+CUST1317,Donald,Kennedy,55.0,Male,75703.61,Jacquelinefurt,2024-08-03
+CUST1318,Michael,Gaines,57.0,Male,65152.05,West Kent,2025-07-12
+CUST1319,Jo,Marshall,37.0,Female,47056.08,West Zacharyport,2023-05-17
+CUST1320,Jeanette,Delgado,52.0,Female,33588.44,Moorefort,2024-04-03
+CUST1321,Derek,Bradley,65.0,Other,14425.77,Lake Thomasburgh,2025-04-20
+CUST1322,Jon,Miller,42.0,Male,43435.01,New Suzanneburgh,2025-11-13
+CUST1323,Heather,Woodward,52.0,Male,32204.97,Charlesside,2025-06-09
+CUST1324,Angela,Mcfarland,42.0,Female,88965.57,Port Lisafurt,2025-07-09
+CUST1325,Samuel,Dixon,46.0,Male,40244.44,Markbury,2025-06-03
+CUST1326,Rick,Patrick,35.0,Female,39834.36,Lake Jesseview,2024-01-11
+CUST1327,Michael,Rhodes,63.0,Male,27181.33,Smithfort,2023-05-04
+CUST1328,Patrick,Schultz,35.0,Other,46005.24,Shawntown,2023-08-06
+CUST1329,Willie,Hall,19.0,Male,40031.98,West Spencer,2025-05-23
+CUST1330,Monica,Pruitt,52.0,Male,76065.94,Montoyaland,2025-11-03
+CUST1331,Angela,Turner,33.0,Female,52527.14,North Stephenmouth,2025-06-06
+CUST1332,David,Black,58.0,Male,49867.04,Lake Shannon,2026-01-30
+CUST1333,Logan,Fisher,53.0,Male,47979.91,New Kelly,2023-08-04
+CUST1334,Christine,Vincent,50.0,Female,61792.62,Port Anneport,2023-06-11
+CUST1335,Heather,Mckay,21.0,Other,43215.08,East Cory,2023-06-23
+CUST1336,John,Richards,50.0,Other,60008.09,North Kimberlyhaven,2023-12-18
+CUST1337,Matthew,Guzman,31.0,Female,74209.55,Port Travisview,2023-06-16
+CUST1338,Ralph,King,38.0,Female,,West Brett,2025-05-25
+CUST1339,Kim,Flowers,65.0,Female,46254.03,Davidberg,2025-06-09
+CUST1340,Kristina,Williams,37.0,Female,35698.11,Miatown,2023-06-20
+CUST1341,Elizabeth,Thomas,25.0,Female,45873.14,New Carolynhaven,2023-07-31
+CUST1342,Samuel,Rose,24.0,Other,,Stephanieburgh,2023-03-09
+CUST1343,Susan,Davis,20.0,Other,27012.09,Sheilamouth,2023-10-05
+CUST1344,Casey,Lloyd,34.0,Female,62473.14,Jennifertown,2024-08-01
+CUST1345,Charles,Rangel,50.0,Male,53114.19,Lake Fernando,2023-03-25
+CUST1346,Daniel,Gonzalez,65.0,Female,47762.16,Rogerborough,2023-06-22
+CUST1347,Richard,Gray,29.0,Male,40108.8,Michaelland,2023-09-26
+CUST1348,Alicia,Diaz,68.0,Female,42854.33,East Shannonville,2023-06-21
+CUST1349,Katelyn,Davis,39.0,Female,58959.59,Elizabethtown,2023-08-12
+CUST1350,David,Barnes,39.0,Other,48076.83,Brianton,2024-05-16
+CUST1351,John,Solis,63.0,Male,42482.9,East Patrickberg,2023-10-24
+CUST1352,Melinda,Jones,47.0,Male,57028.45,Bairdstad,2025-10-20
+CUST1353,John,Jacobson,55.0,Other,57622.85,South Brenda,2023-07-19
+CUST1354,Danny,Vega,55.0,Other,31262.37,South Lisahaven,2024-10-14
+CUST1355,Edward,Gray,62.0,Other,58572.21,Lake Matthew,2023-12-28
+CUST1356,Rebecca,Daugherty,68.0,Other,87525.47,South Micheleberg,2025-06-07
+CUST1357,Ronald,Jones,25.0,Male,57044.31,West Melissafort,2023-05-10
+CUST1358,Marcus,Fitzgerald,44.0,Male,24514.89,West Dianaton,2024-06-19
+CUST1359,Jermaine,Glover,44.0,Female,,Markhaven,2023-06-09
+CUST1360,Mathew,Griffin,51.0,Female,22537.77,Smithborough,2023-06-01
+CUST1361,Benjamin,Orr,38.0,Other,97510.58,Kimport,2026-01-19
+CUST1362,Amanda,Kent,47.0,Other,,Randallburgh,2025-05-14
+CUST1363,Jason,Parker,50.0,Other,40010.92,Matthewborough,2025-01-11
+CUST1364,Gregg,Flowers,45.0,Female,16314.99,North Lisatown,2025-07-09
+CUST1365,Charles,Garcia,64.0,Female,36824.43,Karenbury,2023-06-09
+CUST1366,Travis,Martinez,50.0,Female,47285.14,North Alisonborough,2024-05-16
+CUST1367,Justin,Christian,22.0,Female,23572.04,Port Gabrielshire,2023-07-18
+CUST1368,Cody,Kelly,65.0,Female,48964.66,East Douglas,2024-11-29
+CUST1369,Michelle,Mullins,36.0,Female,47186.32,New Melissafurt,2023-08-31
+CUST1370,Larry,Long,21.0,Female,51877.32,Matthewmouth,2025-05-12
+CUST1371,David,Deleon,52.0,Other,53444.68,Vegaland,2025-04-24
+CUST1372,Andrew,Wood,66.0,Other,35515.74,North Travisstad,2025-07-12
+CUST1373,Julia,Davis,34.0,Other,37198.79,North Joshua,2024-12-03
+CUST1374,Wanda,Mcguire,61.0,Other,50683.88,South James,2024-08-10
+CUST1375,Samantha,Young,45.0,Female,40535.12,West Johnbury,2023-05-03
+CUST1376,James,Clark,,Male,63612.42,Pamelatown,2025-08-19
+CUST1377,Heather,Wallace,,Female,50538.42,Taylorview,2025-10-12
+CUST1378,Adrian,Gray,63.0,Male,77975.05,South Amy,2023-04-22
+CUST1379,Natalie,Miller,23.0,Other,62307.24,West Joannafort,2025-02-18
+CUST1380,Carl,Glenn,52.0,Female,66555.71,Arthurborough,2024-12-01
+CUST1381,Christie,Davidson,58.0,Other,51988.49,Marktown,2024-09-07
+CUST1382,Nicole,Wade,54.0,Female,52360.42,Castillochester,2023-08-08
+CUST1383,Leah,White,41.0,Other,75969.81,South Valeriestad,2025-12-03
+CUST1384,Harold,Holt,46.0,Male,44325.61,Aprilfurt,2024-12-11
+CUST1385,John,Hamilton,66.0,Male,58201.69,New Philip,2023-08-14
+CUST1386,Aaron,Martinez,,Male,46006.44,Lake Lisa,2024-05-23
+CUST1387,Scott,Bates,48.0,Female,45970.46,New Bridget,2025-11-30
+CUST1388,Kathleen,Johnson,52.0,Male,32466.56,New Jeffrey,2025-08-07
+CUST1389,Carol,Sims,50.0,Female,38862.28,Port Sydneymouth,2024-06-28
+CUST1390,Ashley,Hammond,69.0,Male,36075.96,Parkerborough,2025-02-27
+CUST1391,Amy,Jones,38.0,Male,58915.53,Lake Kaylaport,2023-09-27
+CUST1392,Austin,Thomas,49.0,Female,65603.09,Tylerchester,2024-10-17
+CUST1393,Lisa,Fleming,40.0,Female,48578.7,East Angelashire,2025-12-29
+CUST1394,Tanner,Mata,50.0,Male,53444.42,East Brandyhaven,2023-07-28
+CUST1395,Bryce,Gallegos,20.0,Female,47712.93,South Kimberlyborough,2023-03-03
+CUST1396,Jeffrey,Johnson,35.0,Male,37838.36,West Matthew,2025-07-22
+CUST1397,David,Andrews,42.0,Female,62933.95,Nortonburgh,2024-09-07
+CUST1398,Theresa,Hamilton,59.0,Other,59788.02,Port Annette,2024-03-08
+CUST1399,Matthew,Madden,48.0,Other,21611.81,East Wesley,2025-02-11
+CUST1400,Dylan,Jones,20.0,Other,45753.36,Maryberg,2025-01-31
+CUST1401,Joseph,Ortega,57.0,Other,36769.59,East Ianberg,2025-05-13
+CUST1402,Samantha,Parker,63.0,Other,44135.92,Rogerston,2024-10-22
+CUST1403,Jared,Moore,41.0,Male,39943.53,Kristinastad,2024-08-05
+CUST1404,Alan,Smith,67.0,Other,49303.69,Nelsonton,2025-07-06
+CUST1405,Eric,Gomez,49.0,Other,45051.28,New Josephmouth,2025-02-12
+CUST1406,Stephen,Castaneda,64.0,Other,44732.89,Sarastad,2025-11-17
+CUST1407,Samantha,Miller,39.0,Other,66610.83,Masonmouth,2024-08-14
+CUST1408,Christopher,Saunders,,Female,58357.68,Richardshire,2024-12-12
+CUST1409,Sara,Campbell,19.0,Male,39441.58,Matthewview,2025-05-28
+CUST1410,Megan,Williamson,44.0,Other,41666.8,Craigland,2023-12-24
+CUST1411,Mark,Thompson,59.0,Other,57376.9,Phillipmouth,2024-05-29
+CUST1412,Eugene,Morris,19.0,Other,57356.29,Port Jaclynberg,2026-01-30
+CUST1413,Jeffrey,Novak,43.0,Male,,Stevensontown,2025-10-01
+CUST1414,Michael,Taylor,,Female,46490.14,East Rebeccachester,2024-08-19
+CUST1415,Tyler,Hanson,57.0,Male,77702.09,Shieldsfurt,2023-08-08
+CUST1416,Taylor,Powers,50.0,Female,41201.78,Perezshire,2026-02-13
+CUST1417,Eric,Lucero,26.0,Other,78662.07,New Brian,2024-12-27
+CUST1418,Michelle,Wright,60.0,Other,66555.0,West Amanda,2024-01-22
+CUST1419,Brian,Wheeler,65.0,Male,75881.24,Samanthamouth,2026-01-07
+CUST1420,Daryl,Morgan,56.0,Male,40563.92,Staceyton,2025-08-22
+CUST1421,Patrick,Rodriguez,46.0,Female,47471.66,Jacobside,2025-07-13
+CUST1422,Thomas,Lewis,,Female,43262.54,Andrewchester,2025-11-24
+CUST1423,Amanda,Garcia,43.0,Male,66901.3,Markport,2024-01-18
+CUST1424,Todd,Hernandez,52.0,Female,41484.74,Bakerton,2023-06-25
+CUST1425,Daniel,Collier,67.0,Male,60968.23,Kimberlyborough,2024-02-17
+CUST1426,Amy,Singleton,42.0,Female,60174.49,North Keith,2023-05-09
+CUST1427,Christopher,Casey,41.0,Male,49279.56,North Michaelstad,2024-01-16
+CUST1428,Anna,Ross,30.0,Male,69479.9,North Michael,2024-10-28
+CUST1429,Jeremy,Garcia,24.0,Male,51615.2,Lake Elizabethbury,2024-10-24
+CUST1430,Christopher,Flores,,Female,62511.29,Martinbury,2026-01-30
+CUST1431,Renee,Ortiz,62.0,Female,42579.45,Port Andrea,2025-09-02
+CUST1432,Monica,Lara,37.0,Female,39148.45,New Jamesstad,2024-08-20
+CUST1433,Lindsay,Robinson,18.0,Male,,Ryanton,2023-12-28
+CUST1434,Cathy,Jennings,25.0,Female,56462.6,Bryanbury,2025-12-17
+CUST1435,Darrell,Lewis,63.0,Female,53649.61,North Carol,2024-05-15
+CUST1436,Bradley,Young,33.0,Male,44844.67,Turnermouth,2023-11-19
+CUST1437,Holly,Flores,31.0,Other,,New Ralph,2025-04-27
+CUST1438,Karen,Calhoun,,Male,33251.21,North Leslie,2023-11-24
+CUST1439,Matthew,Sanders,68.0,Female,32429.85,Joshuaport,2023-03-16
+CUST1440,John,Wilson,40.0,Male,64132.5,Webbburgh,2024-05-16
+CUST1441,Monica,Miller,32.0,Other,62901.45,West Gary,2023-07-19
+CUST1442,Jeremiah,Lester,45.0,Male,55306.44,Johnland,2023-10-18
+CUST1443,Crystal,Sloan,51.0,Female,,Taylorside,2026-01-23
+CUST1444,Ricardo,Nguyen,19.0,Other,57536.33,Rebeccastad,2025-11-07
+CUST1445,Matthew,Roberts,49.0,Female,75812.45,Smithside,2025-09-26
+CUST1446,Allen,Stone,40.0,Other,87733.19,Davenportfort,2025-06-22
+CUST1447,Rebecca,Lee,39.0,Other,25153.79,East Monica,2023-04-26
+CUST1448,Kelly,Hanson,68.0,Male,43716.2,Tracyborough,2024-05-22
+CUST1449,Joshua,Garcia,42.0,Male,42773.4,South Sarah,2025-07-06
+CUST1450,Andrea,Spencer,39.0,Female,74397.79,South Robertstad,2024-09-14
+CUST1451,Isaac,Ramos,39.0,Male,12780.58,Kellyside,2025-06-19
+CUST1452,William,Miles,66.0,Male,57707.53,Elizabethshire,2025-04-05
+CUST1453,Samantha,Smith,69.0,Other,46147.85,Brianside,2025-04-23
+CUST1454,Ariel,Barton,59.0,Male,74571.69,West Williamton,2024-04-26
+CUST1455,Wendy,Young,23.0,Other,72515.58,South Harrychester,2024-10-05
+CUST1456,William,Paul,32.0,Other,55482.6,Port Bethfurt,2023-12-08
+CUST1457,Christina,Norton,60.0,Other,26304.15,South Amy,2023-05-02
+CUST1458,Lauren,Alvarado,54.0,Female,41391.66,New Lesliestad,2023-11-24
+CUST1459,Kristina,Walters,50.0,Female,43034.13,Johnmouth,2025-07-26
+CUST1460,Kevin,Wallace,25.0,Female,30103.18,Theresashire,2025-07-22
+CUST1461,Andrew,Graham,61.0,Other,67318.76,Williamsbury,2024-06-02
+CUST1462,Katie,Lewis,61.0,Female,28198.6,Lindsayshire,2024-10-14
+CUST1463,Adam,Valdez,,Female,79479.91,West Gloria,2024-06-26
+CUST1464,Karl,Oneal,56.0,Male,79442.34,Frankberg,2025-05-06
+CUST1465,Mary,Smith,21.0,Female,44224.1,West Franciscomouth,2025-11-15
+CUST1466,Jennifer,Richardson,23.0,Female,54927.43,Hansenborough,2025-12-17
+CUST1467,Cynthia,Baker,62.0,Other,48915.75,Lake Theodore,2023-10-14
+CUST1468,Kevin,Rhodes,49.0,Other,63527.37,Aprilstad,2023-10-25
+CUST1469,Haley,Nicholson,69.0,Other,69120.16,North Christopher,2024-11-08
+CUST1470,Isaac,Liu,47.0,Other,53869.95,Richardsonstad,2024-10-19
+CUST1471,Donald,Allen,64.0,Other,57036.75,Lake Edwardmouth,2023-02-24
+CUST1472,Danielle,Anderson,52.0,Other,40690.94,Johnfurt,2025-11-29
+CUST1473,Marc,Ayala,57.0,Female,,Josephshire,2024-02-20
+CUST1474,Rebecca,Day,69.0,Other,52441.43,Lake Kevinmouth,2024-01-28
+CUST1475,Kathleen,Yoder,33.0,Other,36323.08,Josetown,2024-06-12
+CUST1476,Carolyn,Fisher,30.0,Male,49789.44,Warrenton,2024-07-25
+CUST1477,Zoe,Deleon,67.0,Female,44252.26,Port Angelabury,2024-11-01
+CUST1478,Donna,Vega,59.0,Female,40857.57,Michaelview,2023-04-16
+CUST1479,Cindy,Mcgrath,47.0,Female,32802.63,New Karenfort,2025-03-05
+CUST1480,Randy,Murphy,36.0,Other,50937.54,Christopherhaven,2025-02-22
+CUST1481,James,Becker,34.0,Other,38292.89,East Patrickland,2023-06-08
+CUST1482,Victoria,Garcia,36.0,Other,42933.38,North Brittany,2025-03-06
+CUST1483,Keith,Small,45.0,Male,66126.86,Fergusonfort,2024-03-30
+CUST1484,Lisa,Li,43.0,Other,59481.74,Alisonland,2025-08-30
+CUST1485,Grant,Howard,54.0,Male,35318.5,North Tina,2025-05-14
+CUST1486,Peter,Tate,43.0,Female,55278.37,Joshuaview,2025-01-27
+CUST1487,Jesse,Kelly,40.0,Other,51991.71,Smithmouth,2023-09-16
+CUST1488,Robert,Smith,26.0,Male,75525.44,Tonyachester,2024-10-21
+CUST1489,Brian,Rhodes,29.0,Male,70747.18,South Debbie,2025-10-22
+CUST1490,Matthew,Sanders,18.0,Other,26993.77,Kennedyport,2024-09-23
+CUST1491,Mary,Haynes,18.0,Female,62916.92,Sonyabury,2024-01-16
+CUST1492,John,Mitchell,,Female,68977.96,North Cindy,2024-04-10
+CUST1493,Melissa,Whitney,51.0,Female,58390.39,New Richardville,2023-11-20
+CUST1494,Sheena,Martinez,49.0,Male,44968.82,Aprilland,2024-08-25
+CUST1495,Andrew,Leonard,65.0,Male,86200.91,Christopherstad,2024-07-29
+CUST1496,Mindy,Mueller,42.0,Male,59771.14,East Bradley,2026-01-17
+CUST1497,Sarah,Eaton,57.0,Male,79648.16,West Kenneth,2023-08-28
+CUST1498,Melissa,Stein,62.0,Female,70272.18,Jenniferview,2024-03-04
+CUST1499,Daniel,Schultz,18.0,Other,56962.02,Snowton,2025-07-01
